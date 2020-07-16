@@ -1,0 +1,21 @@
+{
+  "name": "budget-keeper",
+  "description": "website",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Alex Bradford",
+  "license": "ISC",
+  "homepage": "https://price-keeper.herokuapp.com/",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.9",
+    "nodemon": "^2.0.4",
+    "mongoose": "^5.9.24"
+  }
+}
